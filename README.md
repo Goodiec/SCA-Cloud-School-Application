@@ -2,7 +2,7 @@
 
 To successfully build and run this application, you should have Docker installed.
 
-##Deployment Instructions
+## Deployment Instructions
 
 - Clone repo
 ```sh
